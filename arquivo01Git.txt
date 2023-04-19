@@ -1,0 +1,7 @@
+Criação do repositório na máquina
+
+Vesão 1
+
+Alteração na branch ramo01
+
+Modificação pelo VS Code
